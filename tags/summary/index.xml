@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Summary on BSY Zusammenfassung</title>
+    <link>~/tags/summary/</link>
+    <description>Recent content in Summary on BSY Zusammenfassung</description>
+    <image>
+      <url>~/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>~/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="~/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>~/introduction/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>~/introduction/</guid>
+      <description>Chapter one</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>~/introduction/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>~/introduction/commands/</guid>
+      <description>Commands</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>~/boot/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>~/boot/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>~/files1/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>~/files1/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>~/files2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>~/files2/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>~/ioadv/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>~/ioadv/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>~/iobsc/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>~/iobsc/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>~/linux/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>~/linux/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>~/memry/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>~/memry/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>~/proc1/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>~/proc1/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>~/proc2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>~/proc2/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>~/sched/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>~/sched/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>
