@@ -3,112 +3,132 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>~/</loc>
+    <loc>/</loc>
     <lastmod>2021-06-12T08:58:07+02:00</lastmod>
   </url>
   
   <url>
-    <loc>~/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2021-06-12T08:58:07+02:00</lastmod>
   </url>
   
   <url>
-    <loc>~/post/toc/</loc>
+    <loc>/post/toc/</loc>
     <lastmod>2021-06-12T08:58:07+02:00</lastmod>
   </url>
   
   <url>
-    <loc>~/tags/bsy/</loc>
+    <loc>/tags/bsy/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/tags/introduction/</loc>
+    <loc>/boot/commands/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/introduction/</loc>
+    <loc>/linux/commands/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/introduction/commands/</loc>
+    <loc>/tags/introduction/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/categories/introduction/</loc>
+    <loc>/introduction/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/boot/</loc>
+    <loc>/introduction/commands/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/files1/</loc>
+    <loc>/categories/introduction/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/files2/</loc>
+    <loc>/tags/linux/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/ioadv/</loc>
+    <loc>/linux/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/iobsc/</loc>
+    <loc>/boot/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/linux/</loc>
+    <loc>/files1/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/memry/</loc>
+    <loc>/files2/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/proc1/</loc>
+    <loc>/ioadv/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/proc2/</loc>
+    <loc>/iobsc/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/sched/</loc>
+    <loc>/memry/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/tags/summary/</loc>
+    <loc>/proc1/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/tags/</loc>
+    <loc>/proc2/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>~/tags/zhaw/</loc>
+    <loc>/sched/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/boot/specials/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/summary/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/zhaw/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
