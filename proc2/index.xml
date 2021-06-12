@@ -11,21 +11,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://jangrau13.github.io/proc2/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Commands</title>
-      <link>https://jangrau13.github.io/proc2/commands/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://jangrau13.github.io/proc2/commands/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
       <title>How To Cgroup</title>
       <link>https://jangrau13.github.io/proc2/create/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://jangrau13.github.io/proc2/create/</guid>
-      <description>Scheduling</description>
+      <description>Processes</description>
+    </item>
+    
+    <item>
+      <title>Processes2 - Commands</title>
+      <link>https://jangrau13.github.io/proc2/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://jangrau13.github.io/proc2/commands/</guid>
+      <description>Processes</description>
     </item>
     
   </channel>

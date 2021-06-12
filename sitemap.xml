@@ -18,12 +18,12 @@
   </url>
   
   <url>
-    <loc>https://jangrau13.github.io/proc1/analysing/</loc>
+    <loc>https://jangrau13.github.io/tags/boot/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jangrau13.github.io/tags/boot/</loc>
+    <loc>https://jangrau13.github.io/boot/commands/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
@@ -38,57 +38,17 @@
   </url>
   
   <url>
+    <loc>https://jangrau13.github.io/tags/files/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jangrau13.github.io/files1/commands/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jangrau13.github.io/boot/commands/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jangrau13.github.io/files2/commands/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jangrau13.github.io/ioadv/commands/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jangrau13.github.io/iobsc/commands/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jangrau13.github.io/linux/commands/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jangrau13.github.io/memry/commands/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jangrau13.github.io/proc1/commands/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jangrau13.github.io/proc2/commands/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jangrau13.github.io/sched/commands/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jangrau13.github.io/tags/files/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
@@ -128,6 +88,16 @@
   </url>
   
   <url>
+    <loc>https://jangrau13.github.io/ioadv/commands/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jangrau13.github.io/iobsc/commands/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jangrau13.github.io/tags/linux/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
@@ -138,7 +108,17 @@
   </url>
   
   <url>
+    <loc>https://jangrau13.github.io/linux/commands/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jangrau13.github.io/tags/memory/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jangrau13.github.io/memry/commands/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
@@ -193,7 +173,27 @@
   </url>
   
   <url>
+    <loc>https://jangrau13.github.io/proc1/commands/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jangrau13.github.io/proc1/analysing/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jangrau13.github.io/proc2/commands/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jangrau13.github.io/tags/scheduling/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jangrau13.github.io/sched/commands/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   

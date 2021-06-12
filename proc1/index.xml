@@ -11,21 +11,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://jangrau13.github.io/proc1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Analysis of a Process</title>
-      <link>https://jangrau13.github.io/proc1/analysing/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://jangrau13.github.io/proc1/analysing/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>Commands</title>
+      <title>Processes 1 - Commands</title>
       <link>https://jangrau13.github.io/proc1/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://jangrau13.github.io/proc1/commands/</guid>
-      <description>Desc Text.</description>
+      <description>Processes</description>
+    </item>
+    
+    <item>
+      <title>Processes1 - Analysis of a Process</title>
+      <link>https://jangrau13.github.io/proc1/analysing/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://jangrau13.github.io/proc1/analysing/</guid>
+      <description>Processes</description>
     </item>
     
   </channel>

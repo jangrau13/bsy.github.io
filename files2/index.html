@@ -6,7 +6,7 @@ function search(query){return lunrIndex.search(query).map(function(result){retur
 function renderResults(results){if(!results.length){return;}
 results.slice(0,10).forEach(function(result){console.log(result)
 var $result=$("<li>");$result.append($("<a>",{href:result.href,text:"» "+result.title}));$results.append($result);});}
-initLunr();$(document).ready(function(){initUI();});</script></body></span></div><ul id=menu><li><a href=https://jangrau13.github.io/categories/ title=categories><span>categories</span></a></li><li><a href=https://jangrau13.github.io/tags/ title=tags><span>tags</span></a></li><li><a href="https://moodle2.zhaw.ch/course/view.php?id=30247" title=Moodle><span>Moodle</span></a></li></ul></nav></header><main class=main><header class=page-header><div class=breadcrumbs><a href=https://jangrau13.github.io/>Home</a></div><h1>My 1st post</h1><div class=post-description>Desc Text.</div></header><article class=post-entry><header class=entry-header><h2>Commands</h2></header><section class=entry-content><p>Creating LVM – Initialize Physical Volumes (PV) to be managed by LVM
+initLunr();$(document).ready(function(){initUI();});</script></body></span></div><ul id=menu><li><a href=https://jangrau13.github.io/categories/ title=categories><span>categories</span></a></li><li><a href=https://jangrau13.github.io/tags/ title=tags><span>tags</span></a></li><li><a href="https://moodle2.zhaw.ch/course/view.php?id=30247" title=Moodle><span>Moodle</span></a></li></ul></nav></header><main class=main><header class=page-header><div class=breadcrumbs><a href=https://jangrau13.github.io/>Home</a></div><h1>My 1st post</h1><div class=post-description>Desc Text.</div></header><article class=post-entry><header class=entry-header><h2>Files2 - Commands</h2></header><section class=entry-content><p>Creating LVM – Initialize Physical Volumes (PV) to be managed by LVM
 $ pvcreate /dev/vdb1
 – Create a Logical Volume Group (VG) and attach PVs
 $ vgcreate myVG /dev/vdb1 /dev/vdc1 …
@@ -17,7 +17,7 @@ $ lvcreate -L 1G -n myLV myVG
 $ lvextend –resizefs -L 800M /dev/myVG/myLV
 $ lvreduce –resizefs -L 100M /dev/myVG/myLV
 – Create snapshot
-$ lvcreate –size 50M –snapshot –name myLVSnpsht /dev/myVG/myLV...</p></section><footer class=entry-footer>September 15, 2020&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer><a class=entry-link aria-label="post link to Commands" href=https://jangrau13.github.io/files2/commands/></a></article></main><footer class=footer><span>&copy; 2021 <a href=https://jangrau13.github.io/>BSY Zusammenfassung</a></span>
+$ lvcreate –size 50M –snapshot –name myLVSnpsht /dev/myVG/myLV...</p></section><footer class=entry-footer>September 15, 2020&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer><a class=entry-link aria-label="post link to Files2 - Commands" href=https://jangrau13.github.io/files2/commands/></a></article></main><footer class=footer><span>&copy; 2021 <a href=https://jangrau13.github.io/>BSY Zusammenfassung</a></span>
 <span>Written in
 <a href=https://www.eps.ch/en/company/team/lukas-bamert.html rel="noopener noreferrer" target=_blank>Bamert Lang</a></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)"><button class=top-link id=top-link type=button accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z" /></svg></button></a>
 <script>let menu=document.getElementById('menu')

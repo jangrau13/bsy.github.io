@@ -21,25 +21,7 @@
     </item>
     
     <item>
-      <title>Analysis of a Process</title>
-      <link>https://jangrau13.github.io/proc1/analysing/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://jangrau13.github.io/proc1/analysing/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>Command</title>
-      <link>https://jangrau13.github.io/files1/commands/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://jangrau13.github.io/files1/commands/</guid>
-      <description>Files 1</description>
-    </item>
-    
-    <item>
-      <title>Commands</title>
+      <title>Boot - Commands</title>
       <link>https://jangrau13.github.io/boot/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
@@ -48,7 +30,16 @@
     </item>
     
     <item>
-      <title>Commands</title>
+      <title>Files1 - Commands</title>
+      <link>https://jangrau13.github.io/files1/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://jangrau13.github.io/files1/commands/</guid>
+      <description>Files 1</description>
+    </item>
+    
+    <item>
+      <title>Files2 - Commands</title>
       <link>https://jangrau13.github.io/files2/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
@@ -57,75 +48,12 @@
     </item>
     
     <item>
-      <title>Commands</title>
-      <link>https://jangrau13.github.io/ioadv/commands/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://jangrau13.github.io/ioadv/commands/</guid>
-      <description>IO Advanced</description>
-    </item>
-    
-    <item>
-      <title>Commands</title>
-      <link>https://jangrau13.github.io/iobsc/commands/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://jangrau13.github.io/iobsc/commands/</guid>
-      <description>IO Basics</description>
-    </item>
-    
-    <item>
-      <title>Commands</title>
-      <link>https://jangrau13.github.io/linux/commands/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://jangrau13.github.io/linux/commands/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>Commands</title>
-      <link>https://jangrau13.github.io/memry/commands/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://jangrau13.github.io/memry/commands/</guid>
-      <description>Memory</description>
-    </item>
-    
-    <item>
-      <title>Commands</title>
-      <link>https://jangrau13.github.io/proc1/commands/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://jangrau13.github.io/proc1/commands/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>Commands</title>
-      <link>https://jangrau13.github.io/proc2/commands/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://jangrau13.github.io/proc2/commands/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>Commands</title>
-      <link>https://jangrau13.github.io/sched/commands/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://jangrau13.github.io/sched/commands/</guid>
-      <description>Scheduling</description>
-    </item>
-    
-    <item>
       <title>How To Cgroup</title>
       <link>https://jangrau13.github.io/proc2/create/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://jangrau13.github.io/proc2/create/</guid>
-      <description>Scheduling</description>
+      <description>Processes</description>
     </item>
     
     <item>
@@ -135,6 +63,78 @@
       
       <guid>https://jangrau13.github.io/introduction/commands/</guid>
       <description>Commands</description>
+    </item>
+    
+    <item>
+      <title>IO Advanced - Commands</title>
+      <link>https://jangrau13.github.io/ioadv/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://jangrau13.github.io/ioadv/commands/</guid>
+      <description>IO Advanced</description>
+    </item>
+    
+    <item>
+      <title>IO Basics - Commands</title>
+      <link>https://jangrau13.github.io/iobsc/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://jangrau13.github.io/iobsc/commands/</guid>
+      <description>IO Basics</description>
+    </item>
+    
+    <item>
+      <title>Linux - Commands</title>
+      <link>https://jangrau13.github.io/linux/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://jangrau13.github.io/linux/commands/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Memory - Commands</title>
+      <link>https://jangrau13.github.io/memry/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://jangrau13.github.io/memry/commands/</guid>
+      <description>Memory</description>
+    </item>
+    
+    <item>
+      <title>Processes 1 - Commands</title>
+      <link>https://jangrau13.github.io/proc1/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://jangrau13.github.io/proc1/commands/</guid>
+      <description>Processes</description>
+    </item>
+    
+    <item>
+      <title>Processes1 - Analysis of a Process</title>
+      <link>https://jangrau13.github.io/proc1/analysing/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://jangrau13.github.io/proc1/analysing/</guid>
+      <description>Processes</description>
+    </item>
+    
+    <item>
+      <title>Processes2 - Commands</title>
+      <link>https://jangrau13.github.io/proc2/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://jangrau13.github.io/proc2/commands/</guid>
+      <description>Processes</description>
+    </item>
+    
+    <item>
+      <title>Scheduling - Commands</title>
+      <link>https://jangrau13.github.io/sched/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://jangrau13.github.io/sched/commands/</guid>
+      <description>Scheduling</description>
     </item>
     
     <item>
