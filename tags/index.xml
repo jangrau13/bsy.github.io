@@ -11,11 +11,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Boot</title>
+      <link>/tags/boot/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/tags/boot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BSY</title>
       <link>/tags/bsy/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>/tags/bsy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Files</title>
+      <link>/tags/files/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/tags/files/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro</title>
+      <link>/tags/intro/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/tags/intro/</guid>
       <description></description>
     </item>
     
@@ -29,11 +56,47 @@
     </item>
     
     <item>
+      <title>IO</title>
+      <link>/tags/io/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/tags/io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Linux</title>
       <link>/tags/linux/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory</title>
+      <link>/tags/memory/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/tags/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processes</title>
+      <link>/tags/processes/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/tags/processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling</title>
+      <link>/tags/scheduling/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/tags/scheduling/</guid>
       <description></description>
     </item>
     

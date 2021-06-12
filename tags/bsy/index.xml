@@ -11,6 +11,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="/tags/bsy/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Analysis of a Process</title>
+      <link>/proc1/analysing/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/proc1/analysing/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Command</title>
+      <link>/files1/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/files1/commands/</guid>
+      <description>Files 1</description>
+    </item>
+    
+    <item>
       <title>Commands</title>
       <link>/boot/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
@@ -21,11 +39,83 @@
     
     <item>
       <title>Commands</title>
+      <link>/files2/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/files2/commands/</guid>
+      <description>Files 2</description>
+    </item>
+    
+    <item>
+      <title>Commands</title>
+      <link>/ioadv/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/ioadv/commands/</guid>
+      <description>IO Advanced</description>
+    </item>
+    
+    <item>
+      <title>Commands</title>
+      <link>/iobsc/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/iobsc/commands/</guid>
+      <description>IO Basics</description>
+    </item>
+    
+    <item>
+      <title>Commands</title>
       <link>/linux/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>/linux/commands/</guid>
       <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Commands</title>
+      <link>/memry/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/memry/commands/</guid>
+      <description>Memory</description>
+    </item>
+    
+    <item>
+      <title>Commands</title>
+      <link>/proc1/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/proc1/commands/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Commands</title>
+      <link>/proc2/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/proc2/commands/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Commands</title>
+      <link>/sched/commands/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/sched/commands/</guid>
+      <description>Scheduling</description>
+    </item>
+    
+    <item>
+      <title>How To Cgroup</title>
+      <link>/proc2/create/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/proc2/create/</guid>
+      <description>Scheduling</description>
     </item>
     
     <item>

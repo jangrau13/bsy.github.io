@@ -18,6 +18,16 @@
   </url>
   
   <url>
+    <loc>/proc1/analysing/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/boot/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/bsy/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
@@ -28,12 +38,67 @@
   </url>
   
   <url>
+    <loc>/files1/commands/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/boot/commands/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/files2/commands/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ioadv/commands/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/iobsc/commands/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/linux/commands/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/memry/commands/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/proc1/commands/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/proc2/commands/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sched/commands/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/files/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/proc2/create/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/intro/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
@@ -58,12 +123,22 @@
   </url>
   
   <url>
+    <loc>/tags/io/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/linux/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
     <loc>/linux/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/memory/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
@@ -109,6 +184,16 @@
   
   <url>
     <loc>/sched/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/processes/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/scheduling/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
