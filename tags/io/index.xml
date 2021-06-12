@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>IO on BSY Zusammenfassung</title>
-    <link>/tags/io/</link>
+    <link>https://jangrau13.github.io/tags/io/</link>
     <description>Recent content in IO on BSY Zusammenfassung</description>
     <image>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://jangrau13.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jangrau13.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="/tags/io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://jangrau13.github.io/tags/io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Commands</title>
-      <link>/ioadv/commands/</link>
+      <link>https://jangrau13.github.io/ioadv/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/ioadv/commands/</guid>
+      <guid>https://jangrau13.github.io/ioadv/commands/</guid>
       <description>IO Advanced</description>
     </item>
     
     <item>
       <title>Commands</title>
-      <link>/iobsc/commands/</link>
+      <link>https://jangrau13.github.io/iobsc/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/iobsc/commands/</guid>
+      <guid>https://jangrau13.github.io/iobsc/commands/</guid>
       <description>IO Basics</description>
     </item>
     

@@ -2,119 +2,119 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on BSY Zusammenfassung</title>
-    <link>/tags/</link>
+    <link>https://jangrau13.github.io/tags/</link>
     <description>Recent content in Tags on BSY Zusammenfassung</description>
     <image>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://jangrau13.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jangrau13.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://jangrau13.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Boot</title>
-      <link>/tags/boot/</link>
+      <link>https://jangrau13.github.io/tags/boot/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/tags/boot/</guid>
+      <guid>https://jangrau13.github.io/tags/boot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BSY</title>
-      <link>/tags/bsy/</link>
+      <link>https://jangrau13.github.io/tags/bsy/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/tags/bsy/</guid>
+      <guid>https://jangrau13.github.io/tags/bsy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Files</title>
-      <link>/tags/files/</link>
+      <link>https://jangrau13.github.io/tags/files/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/tags/files/</guid>
+      <guid>https://jangrau13.github.io/tags/files/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intro</title>
-      <link>/tags/intro/</link>
+      <link>https://jangrau13.github.io/tags/intro/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/tags/intro/</guid>
+      <guid>https://jangrau13.github.io/tags/intro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>/tags/introduction/</link>
+      <link>https://jangrau13.github.io/tags/introduction/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/tags/introduction/</guid>
+      <guid>https://jangrau13.github.io/tags/introduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IO</title>
-      <link>/tags/io/</link>
+      <link>https://jangrau13.github.io/tags/io/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/tags/io/</guid>
+      <guid>https://jangrau13.github.io/tags/io/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>/tags/linux/</link>
+      <link>https://jangrau13.github.io/tags/linux/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/tags/linux/</guid>
+      <guid>https://jangrau13.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Memory</title>
-      <link>/tags/memory/</link>
+      <link>https://jangrau13.github.io/tags/memory/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/tags/memory/</guid>
+      <guid>https://jangrau13.github.io/tags/memory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Processes</title>
-      <link>/tags/processes/</link>
+      <link>https://jangrau13.github.io/tags/processes/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/tags/processes/</guid>
+      <guid>https://jangrau13.github.io/tags/processes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scheduling</title>
-      <link>/tags/scheduling/</link>
+      <link>https://jangrau13.github.io/tags/scheduling/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/tags/scheduling/</guid>
+      <guid>https://jangrau13.github.io/tags/scheduling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Summary</title>
-      <link>/tags/summary/</link>
+      <link>https://jangrau13.github.io/tags/summary/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/tags/summary/</guid>
+      <guid>https://jangrau13.github.io/tags/summary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ZHAW</title>
-      <link>/tags/zhaw/</link>
+      <link>https://jangrau13.github.io/tags/zhaw/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/tags/zhaw/</guid>
+      <guid>https://jangrau13.github.io/tags/zhaw/</guid>
       <description></description>
     </item>
     

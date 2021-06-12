@@ -2,236 +2,236 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Summary on BSY Zusammenfassung</title>
-    <link>/tags/summary/</link>
+    <link>https://jangrau13.github.io/tags/summary/</link>
     <description>Recent content in Summary on BSY Zusammenfassung</description>
     <image>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://jangrau13.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jangrau13.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://jangrau13.github.io/tags/summary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analysis of a Process</title>
-      <link>/proc1/analysing/</link>
+      <link>https://jangrau13.github.io/proc1/analysing/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/proc1/analysing/</guid>
+      <guid>https://jangrau13.github.io/proc1/analysing/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>Command</title>
-      <link>/files1/commands/</link>
+      <link>https://jangrau13.github.io/files1/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/files1/commands/</guid>
+      <guid>https://jangrau13.github.io/files1/commands/</guid>
       <description>Files 1</description>
     </item>
     
     <item>
       <title>Commands</title>
-      <link>/boot/commands/</link>
+      <link>https://jangrau13.github.io/boot/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/boot/commands/</guid>
+      <guid>https://jangrau13.github.io/boot/commands/</guid>
       <description>Commands used in Slides</description>
     </item>
     
     <item>
       <title>Commands</title>
-      <link>/files2/commands/</link>
+      <link>https://jangrau13.github.io/files2/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/files2/commands/</guid>
+      <guid>https://jangrau13.github.io/files2/commands/</guid>
       <description>Files 2</description>
     </item>
     
     <item>
       <title>Commands</title>
-      <link>/ioadv/commands/</link>
+      <link>https://jangrau13.github.io/ioadv/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/ioadv/commands/</guid>
+      <guid>https://jangrau13.github.io/ioadv/commands/</guid>
       <description>IO Advanced</description>
     </item>
     
     <item>
       <title>Commands</title>
-      <link>/iobsc/commands/</link>
+      <link>https://jangrau13.github.io/iobsc/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/iobsc/commands/</guid>
+      <guid>https://jangrau13.github.io/iobsc/commands/</guid>
       <description>IO Basics</description>
     </item>
     
     <item>
       <title>Commands</title>
-      <link>/linux/commands/</link>
+      <link>https://jangrau13.github.io/linux/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/linux/commands/</guid>
+      <guid>https://jangrau13.github.io/linux/commands/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>Commands</title>
-      <link>/memry/commands/</link>
+      <link>https://jangrau13.github.io/memry/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/memry/commands/</guid>
+      <guid>https://jangrau13.github.io/memry/commands/</guid>
       <description>Memory</description>
     </item>
     
     <item>
       <title>Commands</title>
-      <link>/proc1/commands/</link>
+      <link>https://jangrau13.github.io/proc1/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/proc1/commands/</guid>
+      <guid>https://jangrau13.github.io/proc1/commands/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>Commands</title>
-      <link>/proc2/commands/</link>
+      <link>https://jangrau13.github.io/proc2/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/proc2/commands/</guid>
+      <guid>https://jangrau13.github.io/proc2/commands/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>Commands</title>
-      <link>/sched/commands/</link>
+      <link>https://jangrau13.github.io/sched/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/sched/commands/</guid>
+      <guid>https://jangrau13.github.io/sched/commands/</guid>
       <description>Scheduling</description>
     </item>
     
     <item>
       <title>How To Cgroup</title>
-      <link>/proc2/create/</link>
+      <link>https://jangrau13.github.io/proc2/create/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/proc2/create/</guid>
+      <guid>https://jangrau13.github.io/proc2/create/</guid>
       <description>Scheduling</description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>/introduction/</link>
+      <link>https://jangrau13.github.io/introduction/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/introduction/</guid>
+      <guid>https://jangrau13.github.io/introduction/</guid>
       <description>Chapter one</description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>/introduction/commands/</link>
+      <link>https://jangrau13.github.io/introduction/commands/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/introduction/commands/</guid>
+      <guid>https://jangrau13.github.io/introduction/commands/</guid>
       <description>Commands</description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>/linux/</link>
+      <link>https://jangrau13.github.io/linux/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/linux/</guid>
+      <guid>https://jangrau13.github.io/linux/</guid>
       <description>Lists commands used in slides</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>/boot/</link>
+      <link>https://jangrau13.github.io/boot/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/boot/</guid>
+      <guid>https://jangrau13.github.io/boot/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>/files1/</link>
+      <link>https://jangrau13.github.io/files1/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/files1/</guid>
+      <guid>https://jangrau13.github.io/files1/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>/files2/</link>
+      <link>https://jangrau13.github.io/files2/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/files2/</guid>
+      <guid>https://jangrau13.github.io/files2/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>/ioadv/</link>
+      <link>https://jangrau13.github.io/ioadv/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/ioadv/</guid>
+      <guid>https://jangrau13.github.io/ioadv/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>/iobsc/</link>
+      <link>https://jangrau13.github.io/iobsc/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/iobsc/</guid>
+      <guid>https://jangrau13.github.io/iobsc/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>/memry/</link>
+      <link>https://jangrau13.github.io/memry/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/memry/</guid>
+      <guid>https://jangrau13.github.io/memry/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>/proc1/</link>
+      <link>https://jangrau13.github.io/proc1/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/proc1/</guid>
+      <guid>https://jangrau13.github.io/proc1/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>/proc2/</link>
+      <link>https://jangrau13.github.io/proc2/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/proc2/</guid>
+      <guid>https://jangrau13.github.io/proc2/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>/sched/</link>
+      <link>https://jangrau13.github.io/sched/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/sched/</guid>
+      <guid>https://jangrau13.github.io/sched/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>Specials</title>
-      <link>/boot/specials/</link>
+      <link>https://jangrau13.github.io/boot/specials/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/boot/specials/</guid>
+      <guid>https://jangrau13.github.io/boot/specials/</guid>
       <description>some other interesting stuff</description>
     </item>
     
